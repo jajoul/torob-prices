@@ -13,7 +13,7 @@ pip install torob-prices
 Run the script from your terminal:
 
 ```bash
-find-less-price "your product name"
+torob-prices "your product name"
 ```
 
 For example:
